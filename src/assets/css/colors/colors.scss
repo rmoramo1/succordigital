@@ -1,0 +1,30 @@
+/*solids*/
+$black:#000;
+$white:#fff;
+$yellow: #E7A737;
+$gold:#A0996F;
+$brown:#52491e;
+$lightGrey:#F7F7F7;
+$grey:#3c3c3c;
+$blue:#143898;
+$lightBlue:#0D87A3;
+$purple:#96234E;
+$blueDark:#0C2136;
+$turque:#0C7C96;
+$blueDyrty:#325A74;
+$blueKing:#0360f9;
+$lightBlueLogo:#08cbf6;
+/*gradiants*/
+$bgLinearBlue:radial-gradient(ellipse farthest-corner at bottom right,#325A74 0%, #0C2136 60% );
+
+$BGB:linear-gradient(to bottom, #000000 0%,#414141 50%,#000000 100%);
+$BGBreverse:linear-gradient(to bottom, #414141 0%,#000 50%,#414141 100%);
+$goldGradiant:linear-gradient(to right, #a0996f 0%,#dbd5a5 46%,#8b8464 100%);
+$goldGradiantBottom:linear-gradient(to bottom, #6a6442 25%,#dbd5a5 46%,#8b8464 55%,#dbd5a5 69%);
+$goldGradiantReverse:linear-gradient(to right, #dbd5a5 0%,#8b8464 46%,#a0996f 100%);
+$BGLeft:linear-gradient(135deg, #000000 50%,#3c3c3c 100%);
+$bgBBTB:linear-gradient(to bottom, #3c3c3c 0%,#000000 16%);
+$bgBGtR:linear-gradient(to right, #000000 0%,#3c3c3c 100%);
+$bgBGTBR:radial-gradient(ellipse farthest-corner at bottom right, #3C3C3C 0%, #000000 30%);
+$bgBlackToGreyBTM:linear-gradient(to bottom, #3c3c3c 0%,#000000 100%); 
+$bgYtB:linear-gradient(to bottom, $yellow 0%,$black 100%);

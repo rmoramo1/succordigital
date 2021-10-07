@@ -1,0 +1,57 @@
+#selectServices {
+    color: $blueDark;
+    .active {
+        background-color: lighten($blue,  25)  !important;
+        color: $white;
+    }
+}
+
+
+#serviciosTop{
+    background: darken($blue, 20);
+}
+.menuServicios {
+    padding: 10px 0;
+    background: $blue;
+    color: $white;
+    &:hover {
+        background-color: lighten($blue,  25)  !important;
+    }
+}
+
+/*se va*/
+.responsive {
+    background-image: url('../../img/responsive.jpg');
+}
+
+.webDev {
+    background-image: url('../../img/webDev.jpg');
+}
+
+.graphic {
+    background-image: url('../../img/graphic.jpg');
+}
+
+.marketing {
+    background-image: url('../../img/marketing.jpg');
+}
+
+.copy {
+    background-image: url('../../img/copy.jpg');
+}
+
+.news {
+    background-image: url('../../img/news.jpg');
+}
+
+.video {
+    background-image: url('../../img/video.jpg');
+}
+
+.serviceSpan {
+    transition: all 0.3s ease-in-out;
+
+    &:hover {
+        transform: translateY(-5px);
+    }
+}

@@ -1,0 +1,13 @@
+.footer {
+    a {
+        color: $white;
+
+        &:hover {
+            color: $purple;
+        }
+    }
+}
+
+.logoVacio {
+    max-width: 150px;
+}

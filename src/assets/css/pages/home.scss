@@ -1,0 +1,39 @@
+@import '../mixin/mixin.scss';
+
+.services {
+    min-height: 500px;
+}
+
+.canales,
+.callCenter,
+.outsourcing,
+.tecnologia,
+.optimizacion,
+.digital {
+    @include bgImage;
+    background-image: url('../../img/canales.jpg');
+}
+
+.callCenter {
+    background-image: url('../../img/callCenter.jpg');
+}
+
+.outsourcing {
+    background-image: url('../../img/outsourcing.jpg');
+}
+
+.tecnologia {
+    background-image: url('../../img/tecnologia.jpg');
+}
+
+.optimizacion {
+    background-image: url('../../img/optimizacion.jpg');
+}
+
+.digital {
+    background-image: url('../../img/digital.jpg');
+}
+
+.SulLLave {
+    min-height: 40vh;
+}

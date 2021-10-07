@@ -1,0 +1,17 @@
+.accordion-button {
+    background-color: $blueDark;
+    color: $white;
+}
+
+.accordion-button:not(.collapsed) {
+    color: $white;
+    background-color: $turque;
+}
+
+.accordion-button:not(.collapsed):after {
+    background-image: url('../../img/chevron-up-solid.svg');
+}
+
+.accordion-button::after {
+    background-image: url('../../img/chevron-up-solid.svg');
+}

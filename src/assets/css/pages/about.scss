@@ -1,0 +1,21 @@
+@import '../mixin/mixin.scss';
+
+.aboutSpan {
+    @include bgImage;
+    background-image: url('../../img/aboutSpan.jpg');
+    min-height: 600px;
+}
+
+.App-particles__container {
+    overflow: hidden;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+}
+.span-about-compromises{
+    position: relative;
+    z-index: 1235;
+   box-shadow: 0 0 15px rgba($black, .5);
+}

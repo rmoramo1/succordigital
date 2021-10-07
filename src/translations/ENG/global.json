@@ -1,0 +1,298 @@
+{
+    "buttons": {
+        "mas": "MORE",
+        "submit": "SEND",
+        "contacto": "Contact",
+        "READMORE": "READ MORE",
+        "inicio": "Return to Homepage"
+    },
+    "home": {
+        "slider": {
+            "text1": "Upgrade your business",
+            "text2": "The rise of technology has created a new world - the digital world.",
+            "text3": "Get in contact with our team and learn how to take advantage of this technological boom.",
+            "text4": "And start thinking about how to create tech-based businesses that will be successful in the future."
+        },
+        "slider2": {
+            "text1": "Financial Adaptability",
+            "text2": "Let us become your go to ally in today's digital age. Here at SUCCOR we offer you the possibility of accomodating your budget to what fits you most. Talk to us, let's reach an agreement!"
+        },
+        "slider3": {
+            "text1": "Build your online presence!",
+            "text2": "Every company has different needs. You will be able to find a solution according to your digital needs in one of our different bundles. Develop your online presence with the help of our experts!"
+        },
+        "span1": {
+            "text1": "Are you harnessing the power of the digital world to grow your business?",
+            "text2": "The internet is an invaluable tool for business and marketing. The digital world has grown at such a rapid pace. However, many companies are still not using their full potential to succeed.",
+            "text3": "There are many ways to get your business known. Most of them can be done by anyone with half a brain; however, like any other specialty, you need the know-how to harness its full potential, and Digital Marketing is no exception.",
+            "text4": "Digital marketing uses tools such as social media, search engines, digital ads, and more to enhance your brand and attract customers. Succor’s digital team invites businesses of all sizes across the globe to allow us to make your brand reach its full potential in the digital world.",
+
+            "text5": "We want to help your business thrive",
+            "text6": "We're a company born with powerful digital tools in mind, and we'd love the opportunity to work for you!",
+            "text6-1": "We want to help you achieve your goals!",
+
+            "text7": "Digital Tools",
+            "text8": "It’s time for your message to be heard. Succor digital will help you with the best digital tools to mobilize and communicate with potential customers, information, and collaborators on all channels. We will create engaging content, develop strategies for communication across multiple channels, measure results so we know what is working best, and grow your footprint using data communications.",
+            "text9": "Digital ally",
+            "text10": "We are your guides to take your business into the digital era. We take a deep dive into your marketing goals and identity before we offer our recommendations, including real-time data, trends, and analysis, so you know what’s really going on in the space.",
+
+            "call1": "Do you need business development assistance?",
+            "call2": "How can we help you grow?", 
+
+            "text11": "Take a look at our services",
+            "text12": "Nos encargamos de monitorear y atender a sus clientes por los diversos canales que su empresa utilice.",
+            "text39": "Blog"
+        }
+    },
+    "about": {
+        "slider": {
+            "text1":"Succor Digital",
+            "text2":"Experts on digital business united as a team to assure the growth of your virtual business."
+        },
+        "span": {
+            "text1": "The development of your company can only measure our success",
+            "text2": "Compromise",
+            "text3": "From beginning to end, we will accompany you through every step to ensure all goals are met.",
+            "text4": "Experience",
+            "text5": "Our team of experts is knowledgeable and will assist your company to the best of their abilities—years of experience at the tip of your fingers.",
+            "text6": "Training and formation",
+            "text7": "As a company powered by digital experts, we make sure all of our team members are knowledgeable in the latest technology and the best tools for the best results.",
+            "text8": "Investigation, learning, and mastering of tools is a must for us..",
+            "text9": "Concrete results are the only measure we use to know we are in the right direction.",
+            "text10": "Define a strategy and fulfill your goals",
+            "text11": "We start with a thorough investigation of your current operations, competitions, product, and service rentability to determine the best plan for your digital success."
+        }
+    },
+    "contact": {
+        "slider": {
+            "text1": "Contact Us",
+            "text2": "Let us know more about your project or company so we can help you."
+        },
+        "form": {
+            "text1": "Name",
+            "text2": "Phone",
+            "text3": "Mail",
+            "text4": "Message"
+        }
+    },
+    "faqs": {
+        "slider": {
+            "text1": "The great influence of the network in the purchases of the users, has given the power in the purchase decision. The consumer must have enough information and references so that he can make the best decision and that best suits his needs."
+        },
+        "span": {
+            "text1": "Living in the digital age, having a website is now a necessity for a business, if you have a company and don't have an internet presence yet, then you are probably missing a lot of opportunities."
+        },
+        "faq1": {
+            "title": "What is digital marketing?",
+            "text1": "Digital marketing is a new and exciting way for businesses to reach their customers. It involves connecting with potential or current clients through online channels like search engines, social media websites such as Facebook and Twitter apps on smartphones tablets etcetera.",
+            "text2": "All of which gather vast amounts information about people who visit them every day in order find out what they want!"
+        },
+        "faq2": {
+            "title": "What does a digital marketer do?",
+            "text1": "Digital marketing is a complicated process and if you're not seasoned in the field, it can be difficult to know what direction your strategy should take. Consulting with an expert will help drive more effective results for your company."
+        },
+        "faq3": {
+            "title": "Would my business benefit from digital marketing?",
+            "text1": "Digital marketing is a no-brainer for your business. Though many companies continue to approach it with skepticism, avoiding digital advertising denies you access and turns away customers who are most likely turning towards the internet first during times of need or convenience."
+        },
+        "faq4": {
+            "title": "What do I need to know about mobile?",
+            "text1": "It's the most used technology in world, and brands are starting see its benefits. Mobile marketing focuses on messaging apps like WhatsApp or Instagram that can be accessed from your phone instead of using traditional methods like emails for communication; this allows people more flexibility with how often they message back-and forth during conversation as well as when someone messages them first."
+        },
+        "faq5": {
+            "title": "Which social media channels should I use?",
+            "text1": "Social media is a place to be seen, so which channels should you use? Facebook has over 2 billion users and Instagram just hit 700 million! Consider first the top social channels in terms of active users: Twitter, LinkedIn (with 350 million), Pinterest at 300+million. Research where your audience spends their time on these sites before deciding what type or content will best reach them there—and don't forget about things like Google+, Tumblr etc., too."
+        },
+        "faq6": {
+            "title": "How can I control my brand on social media?",
+            "text1": "Your brand is now in the hands of your audience. You can’t “control” what's said about it, but you do have some control over how they perceive and discuss those topics through social media posts: join conversations with a voice that reflects care for customers; add value by providing original content or answering their questions."
+        },
+        "faq7": {
+            "title": "What is personal branding?",
+            "text1": "Personal branding is the process of using online and offline tactics to market yourself individually as an entrepreneur. Digital media has helped create this emphasis on personal brands for all types hiring decisions, but it's also important in your purchase choices because people can tell who you are through social media accounts or websites that represent them well."
+        },
+        "faq8": {
+            "title": "How do I differentiate my brand?",
+            "text1": "The best way to differentiate your brand is by creating value. You need identify and communicate a promise that resonates on an emotional level and communicating it in a way where they understand how their lives will improve."
+        }
+    },
+    "servicios": {
+        "slider": {
+            "text1": "Services",
+            "text2": "Do you want to know the path to success?",
+            "text3": "You'll never get ahead in this industry if you don't stay on top of the newest trends. We are here for all your digital needs, from SEO and PPC campaigns to website design with responsive layouts so that visitors can easily navigate through pages regardless of what device they're using at any given moment during their visit - mobile or desktop computer!!!"
+        },
+        "span1": {
+            "text1": "The power of digital services.",
+            "text2": "The digital world is the way of the future. It offers many opportunities to reach your target audience at a lower cost and higher return than traditional marketing methods!",
+            "text3": "Succor digital services"
+        },
+        "span2": {
+            "text1": "Programing",
+            "text2": "Graphic Design",
+            "text3": "Digital Marketing",
+            "text4": "Content Writing",
+            "text5": "Ecommerce Development"
+        },
+        "servicios": {
+            "disenoWeb": {
+                "text1": "Programing",
+                "text2": "Succor digital offers custom programming services that are sure to fit your specific business needs. Whether you need a complete website development team or staff augmentation, succor can help by providing the best available solutions. We can help you achieve success!",
+
+                "text3": "Website building",
+                "text4": "E-commerce websites",
+                "text5": "Create landing pages for your campaigns",
+                "text6": "Create HTML emails",
+                "text7": "Program APIs",
+                "text8": "Program widgets",
+
+                "text9": "Web development",
+                "text10": "There is no better time than now to have an online presence. Having websites built with the proper look and feel requires extensive knowledge about HTML/CSS programming languages. They can be styled for various devices (such as desktop computers or tablets).",
+                "text11": "Fortunately, our Web Design team knows what they are doing when it comes to creating beautiful websites. Making the website fully responsive, meaning they will display perfectly any size screen from phones all the way up through large monitors without degrading quality. This means anyone who visits has access to content quickly and easily - no matter what device you're using!",
+
+                "text12": "Why build a website for your business?",
+                "text13": "Win credibility with your customers",
+                "text14": "Reach our clients, followers, and potential customers",
+                "text15": "Make it close and personal",
+                "text16": "Let them know where you are",
+                "text17": "Be ahead of your time",
+
+                "text18": "Your website is the first thing potential clients see when they search for your products. A well-designed and maintained site will enhance not only how professional and trustworthy you look but also make it easier to find out more information about what services or goods are available with a click of a button!",
+                "text19": "Without an online presence, you're invisible to potential customers!",
+                "text20": "80% of people that need any service will first look it up on the internet. With no website or social media account, you may as well not even exist for all intents and purposes.",
+                "text21": "Connecting with your customers is the best way to get to buy and come back.",
+                "text22": "A website is a perfect opportunity to showcase your company's vision and history. And to discover the vision of the people that buy from you.",
+                "text23": "You can also display your best reviews and testimonials prominently on the website. This will make it easier for clients to trust you.",
+                "text24": "Encourage customers who are interested in what you offer them by having a chat, tickets, or phone number displayed on your website.",
+                "text25": "You can update your website with Google Maps so people will be able to find you more easily",
+                "text26": "Mapping is an integral part of the internet today. In fact, over half (60%) of all consumers now use mapping when looking for local information and services - this includes finding restaurants nearby or directions home!",
+                "text27": "Your website is a powerful tool that can help you establish yourself in the industry. If your competitors aren't yet online, they soon will be.",
+                "text28": "Establish yourself as an expert with high-quality sites before anyone else could give you an edge over them when customers are looking to make their choice about who they purchase from or work with based on what's available on the market at this point in time.",
+                "text29": "However, if we're talking specifically about those companies already advertising themselves through websites now – there are opportunities present which allow us (you) to show off our differences by building uniquely customized websites that will characterize you apart from competitors."
+
+
+            },
+            "graphicDesign": {
+                "text1": "Graphic Design",
+                "text2": "The job of a graphic designer is to create visual messages. They are in charge and responsible for attracting people, talking to the subconscious, convincing them that your brand is the one they should buy from.",
+                "text3": "Using colors or forms that are inherently related to products with high quality, low prices, professionalism, and other messages you would want to non verbally give your potential customer.",
+                "text4": "Most consumers can be convinced by their eyes more than words alone; subliminal representations could generate powerful marketing campaigns, leading customers directly towards an order!",
+
+                "text5": "Web Design",
+                "text6": "Banner Design",
+                "text7": "Ads image or gifs",
+                "text8": "Logo Design",
+                "text9": "Create Visual Concepts",
+                "text10": "App Design",
+                "text11": "Brochures",
+                "text12": "Magazines Design",
+                "text13": "Social Media Design",
+
+                "text14": "Do you know that color is an essential part of your design?",
+                "text15": "Guide your customers through a journey",
+
+                "text16": "Color plays a massive role in graphic design. It’s one of the first things people notice, and it can make or break how they feel about your brand. The right colors will help you create an emotional connection with your audience, while the wrong ones could leave them feeling confused and uninterested.",
+                "text17": "Our team knows that just placing relevant information on a website is not enough; it needs to be an engaging journey, almost as if you were reading a story. ",
+                "text18": "Graphic design is about much more than choosing colors that go together. “A good design or presentation does the most important job of catching and holding the attention of your target audience.",
+                "text19": "People are drawn to brands that can keep them interested and graphic designers are a key part of this type of marketing. “Any business would love to hire a graphic designer who has the vision, ideas, and skills to help them engage their target audience.",
+                "text20": "Marketing is not a one-size-fits-all game. It's about creating content that stands out and grabs the attention of your target audience, who will stay longer on any site they visit if it feels like an engaging story instead of having information just being placed there without purpose or charm.",
+                "text21": "Graphic designers are essential for this type of marketing because their skills lie in more than choosing colors together - we need someone creative with a vision to help you tell stories through design, whether you're looking at logos, websites/blogs posts, etc...",
+                "text22": "Our team knows how crucial good graphic design has become when attempting to attract customers these days instead of relying solely upon text alone."
+            },
+            "digitalMarketing": {
+                "text1": "Digital Marketing",
+                "text2": "Digital marketing is the prodigy descendant of marketing. Digital marketing can be used for any type of industry, and it's much cheaper than traditional methods with an even greater reach, making those who are most likely interested in what you offer more access to your services.",
+                "text3": "The internet has become one colossal marketplace - able to provide a platform and make our lives easier by giving us access from anywhere at any time! This means that when someone searches for something online, they will come across your product/service if their interests match up well enough against yours. All this would've been impossible without digital advertising.",
+
+                "text4": "SEO",
+                "text5": "SEM",
+                "text6": "Social media marketing",
+                "text7": "Email marketing",
+                "text8": "Web advertising",
+                "text9": "More...",
+
+                "text10": "SEO stands for search engine optimization, and its primary goal is to make it easier for your services to appear on the top of the list when people sear for what you offer on search engines such as Google, Yahoo, and Bing.",
+                "text11": "An outsource SEO is a great way to make your business more visible on Google search",
+                "text12": "It's not always easy for businesses, especially for starters or companies that don't have a large budget. At first glance, it may seem like you are not getting much traffic from getting someone else to handle your SEO - but in reality, SEO is a slow process, and as long as a professional is working on it, you will get results",
+                "text13": "Don’t wait until you have exhausted your budget to do SEO; after all, you will get faster, better results with a professional, and having organic traffic you don’t have to pay for is the best type of marketing there is.",
+
+                "text14": "SEM Stands for Search engine marketing. This is the paid version of search engines. A professional will help you set your campaigns on Google and other search engines to market your services or brand. This is a great way to sell your services since the results are immediate and targeted to the interested audience in your services.",
+                "text15": "Do you need help with your SEM?",
+                "text16": "Ours outsource SEM service is the best way to market your business online. We will help you set up and manage campaigns on Google, Bing, Yahoo, and other search engines. This is an effective marketing method because it's targeted towards people who are already interested in what you offer!",
+                "text17": "You can reach more customers than ever before with our outsource SEM service. With just one call or click, we'll start creating a campaign that works for your budget and goals so you can start seeing results right away! And since we're experts at this kind of thing, there's no need to worry about making mistakes or wasting time - we know exactly how to make sure everything runs smoothly from day one!",
+
+                "text18": "Social media marketing enables you to create a relationship with your customer base. You can build credibility and awareness of your company, leading to lead generation, interaction, influencers, and the creation of champions for your brand.",
+
+                "text19": "Web advertisements can help your company. Even if you are doing well on other marketing campaigns, many potential customers that don’t know you will want to see if you are trustworthy or not. By buying spaces on websites, we can ensure that people will see your brand and know that you are genuine and reliable since you will be on pages they already trust. It’s a great way to attract customers who might not have known about you before. For an unknown company, this is the best way to get started.",
+                "text20": "You don’t have to worry about how much money you spend or if it will even work for your business because our team of experts has done all the research and testing to know exactly where and how often ads should be shown in order for them to be effective. We take care of everything from start to finish so that you can focus on running your business while still getting results online!"
+            },
+            "copy": {
+                "text1": "Content Writing",
+                "text2": "There are several types of copywriting, and depending on what you need, we will adjust and have the right person work on your project.",
+
+                "text3": "Blog",
+                "text4": "Websites",
+                "text5": "Articles",
+                "text6": "News",
+                "text7": "Newsletter",
+                "text8": "Email",
+                "text9": "Ads",
+                "text10": "More...",
+
+                "text11": "Storytelling",
+                "text12": "Copywriting",
+                "text13": "Anonymous Writer",
+
+                "text14": "One of the best ways to attract people is by getting a writer who can tell stories",
+                "text15": "Writing for blogs, social media and other forms of content has been shown time after time as being one way that companies can connect with their audience to become more familiarized or attached, which could lead to potential sales down the line!",
+                "text16": "Succor digital is a company that employs writers for all of the social media platforms you're on. Our objective will be to come up with creative, new ways to get people engaged in your business or brand through online post articles and blogs. If you benefit from someone who loves telling stories and connecting with different audiences, both big and small, my company is the perfect fit. From establishing credibility, raising awareness, or increasing engagement, we will use our best storytelling skills combined with excellent data insight into your target audience to create persuasive content that inspires action!",
+
+                "text17": "The goal of copywriting is to make a sale. Unlike other types of content, which are designed primarily for entertainment purposes and sometimes called \"creative writing,\" this form focuses on one thing: getting the reader's attention, so they'll buy what you're selling, in this case, your product or service.",
+                "text18": "If you're looking for an edge over your competitors, this type of writing can help boost your online presence by increasing traffic and engagement.",
+                "text19": "If you're ready to get started now, we've got everything you need right here! Let us help grow your business today!",
+
+                "text20": "Are you too busy to write your articles?",
+                "text21": "If so, a anonymous writer is a perfect solution for you. We can help you create content that will boost your business and increase sales. Our writers are experienced in writing on any topic or industry, so we can provide high-quality work no matter your needs. You’ll get original content written by professionals who know how to make it engaging and exciting for readers. Plus, our rates are affordable!",
+                "text22": "Let us do all of the hard work for you while you focus on running your business! Whether it’s blog posts, website copy, or even eBooks – we have writers who specialize in every type of writing project imaginable. All of our services come with full confidentiality guarantees as well as 100% satisfaction guarantees! So if you aren’t happy with the final product, let us know within 30 days, and we will refund 100% of your money back to you without question. It doesn't get much better than that!"
+                
+            },
+            "ecommerce": {
+                "text1": "Ecommerce Development",
+                "text2": "Do you want to sell products online? Are you looking for a convenient way to offer your customers the option of purchasing your goods without setting up an expensive physical store? E-commerce can help you reach new clients and increase revenue.",
+
+                "text3": "Our Services",
+
+                "text4": "Ecommerce Website Building",
+                "text5": "Management",
+                "text6": "Digital marketing",
+
+                "text7": "Your website is your online storefront. Whether you're just getting started or have been in business for years, one thing that will never change is the need to make sure people can find your product on the internet. Succor's professional ecommerce development team builds websites designed to scale with customer needs—from essentials like secure payment processing and inventory management; to advanced technologies like responsive design and search engine optimization (SEO). ",
+                "text8": "With an integrated content management system (CMS) that works with your specific goals in mind, our web developers build websites that place customers first while providing them all they will need to engage by making it easy for shoppers to browse products online.",
+
+                "text9": "Succor Digital Marketing is here to take the load off of your shoulders. Our outsourced eCommerce management services are designed to simplify any aspect of your business that you need help with, from merchandising sales materials for the website to sending out online customer surveys when an order comes in. It’s our job to make sure nothing falls through the cracks at work when you need it most.",
+
+                "text10": "Digital marketing helps you to reach out and interact with potential customers more consistently. Our eCommerce experts will design a winning strategy for your business by applying our knowledge of social media, SEO, influencer engagement & conversion optimization."
+            }
+        }
+    },
+    "callToAction": {
+        "text1": "Together we can develop your business potential."
+    },
+    "menu": {
+        "text1": "About Us",
+        "text2": "Services",
+        "text3": "Store",
+        "text4": "Contact"
+    },
+    "post": {
+        "text1": "Written By",
+        "text2": "Share",
+        "text3": "Store",
+        "text4": "Contact"
+    },
+    "tienda":{
+        "slider":{
+            "text1":"In Construction"
+        }
+    }
+}

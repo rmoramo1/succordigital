@@ -1,0 +1,298 @@
+{
+    "buttons": {
+        "mas": "MÁS",
+        "submit": "ENVIAR",
+        "contacto": "CONTACTO",
+        "READMORE": "LEER MÁS",
+        "inicio": "REGRESAR A INICIO"
+    },
+    "home": {
+        "slider": {
+            "text1": "Bienvenidos al Mundo Digital",
+            "text2": "El auge de la tecnología ha creado un mundo nuevo: el mundo digital.",
+            "text3": "Ponte en contacto con nuestro equipo y aprende cómo aprovechar este boom tecnológico",
+            "text4": "y comience a pensar en cómo crear negocios basados en tecnología que tengan éxito en el futuro."
+        },
+        "slider2": {
+            "text1": "Flexibilidad Financiera",
+            "text2": "Queremos ser su solucion para esta nueva era digital. Es por esto que SUCCOR le ofrece la posibilidad de acomodarse a sus necesidades presupuestales. Hable con nosotros y llegaremos a un acuerdo que nos benefice a ambos."
+        },
+        "slider3": {
+            "text1": "Establezca su presencia en linea",
+            "text2": "De acuerdo a sus necesidades podra encontrar en nosotros sus solucion para apuntalar su presencia en linea. Venga y cree su ecommerce desde cero con la ayuda de nuestros profesionales."
+        },
+        "span1": {
+            "text1": "¿Está aprovechando el poder del mundo digital para hacer crecer su negocio?",
+            "text2": "Internet es una herramienta invaluable para los negocios y el marketing. El mundo digital ha crecido a un ritmo tan rápido. Sin embargo, muchas empresas aún no están utilizando todo su potencial para tener éxito.",
+            "text3": "Hay muchas formas de dar a conocer su negocio. La mayoría de ellos puede realizarlos cualquier persona con medio cerebro; sin embargo, como cualquier otra especialidad, necesita los conocimientos técnicos para aprovechar todo su potencial, y el marketing digital no es una excepción.",
+            "text4": "El marketing digital utiliza herramientas como las redes sociales, los motores de búsqueda, los anuncios digitales y más para mejorar su marca y atraer clientes. El equipo digital de Succor invita a empresas de todos los tamaños en todo el mundo para que nos permitan hacer que su marca alcance todo su potencial en el mundo digital.",
+
+            "text5": "Queremos ayudar a que su negocio prospere",
+            "text6": "Somos una empresa que nació con poderosas herramientas digitales en mente, ¡y nos encantaría tener la oportunidad de trabajar para usted!",
+            "text6-1": "¡Queremos ayudarte a alcanzar tus objetivos!",
+
+            "text7": "Herramientas Digitales",
+            "text8": "Es hora de que escuches tu mensaje. Succor Digital te ayudará con las mejores herramientas digitales para movilizarte y comunicarte con potenciales clientes, información y colaboradores en todos los canales. Crearemos contenido atractivo, desarrollaremos estrategias de comunicación a través de múltiples canales, mediremos los resultados para saber qué funciona mejor y aumentaremos su huella mediante comunicaciones de datos.",
+            "text9": "Aliado digital",
+            "text10": "Somos sus guías para llevar su negocio a la era digital. Analizamos en profundidad sus objetivos de marketing y su identidad antes de ofrecer nuestras recomendaciones, que incluyen datos, tendencias y análisis en tiempo real, para que sepa lo que realmente está sucediendo en el espacio.",
+
+            "call1": "¿Necesita asistencia para el desarrollo empresarial?",
+            "call2": "¿Cómo podemos ayudarte a crecer?", 
+
+            "text11": "Eche un vistazo a nuestros servicios",
+            "text12": "Nos encargamos de monitorear y atender a sus clientes por los diversos canales que su empresa utilice.",
+            "text39": "Blog"
+        }
+    },
+    "about": {
+        "slider": {
+            "text1":"Succor Digital",
+            "text2":"Expertos en negocio digital unidos como equipo para asegurar el crecimiento de su negocio virtual."
+        },
+        "span": {
+            "text1": "Nuestro éxito solo puede ser medido por el desarrollo de su empresa",
+            "text2": "Compromiso",
+            "text3": "De principio a fin, lo acompañaremos en cada paso para garantizar que se cumplan todos los objetivos.",
+            "text4": "Experiencia",
+            "text5": "Nuestro equipo de expertos está bien informado y asistirá a su empresa de la mejor manera posible: años de experiencia al alcance de la mano.",
+            "text6": "Entrenamiento y formación",
+            "text7": "Como empresa impulsada por expertos digitales, nos aseguramos de que todos los miembros de nuestro equipo conozcan la última tecnología y las mejores herramientas para obtener los mejores resultados.",
+            "text8": "La investigación, el aprendizaje y el dominio de las herramientas es imprescindible para nosotros.",
+            "text9": "Los resultados concretos son la única medida que usamos para saber que estamos en la dirección correcta.",
+            "text10": "Define una estrategia y cumple tus objetivos",
+            "text11": "Comenzamos con una investigación exhaustiva de sus operaciones actuales, competencias, rentabilidad de productos y servicios para determinar el mejor plan para su éxito digital."
+        }
+    },
+    "contact": {
+        "slider": {
+            "text1": "Contáctanos",
+            "text2": "Háganos saber más sobre su proyecto o empresa para que podamos ayudarlo."
+        },
+        "form": {
+            "text1": "Nombre",
+            "text2": "Teléfono",
+            "text3": "Correo",
+            "text4": "Mensaje"
+        }
+    },
+    "faqs": {
+        "slider": {
+            "text1": "La gran influencia de la red en las compras de los usuarios, ha otorgado el poder en la decisión de compra. El consumidor tiene que contar con la suficiente información y referencias para que pueda tomar la decisión más acertada y que mejor se adapte a sus necesidades."
+        },
+        "span": {
+            "text1": "Al vivir en la era digital, tener un sitio web es ahora una necesidad para un negocio, si tienes una empresa y aún no tienes presencia en Internet, entonces probablemente estés perdiendo una gran cantidad de oportunidades."
+        },
+        "faq1": {
+            "title": "¿Qué es el marketing digital? ",
+            "text1": "El marketing digital puede describirse como la nueva y creativa forma que tienen las empresas de conectar con sus clientes. Implica el uso de canales en línea, como los motores de búsqueda y los sitios web de redes sociales, como Facebook o las aplicaciones de Twitter en los teléfonos inteligentes y las tabletas, etc.",
+            "text2": "Que recopilan una gran cantidad de información de las personas que los visitan cada día para encontrar lo que quieren"
+        },
+        "faq2": {
+            "title": "¿Qué hace un especialista profesional en DMP?",
+            "text1": "Le asesoran sobre la mejor manera de utilizar este complicado campo para poder llegar a la audiencia deseada de forma eficiente utilizando análisis de datos (mapeo de vectores propios), campañas en redes sociales o técnicas de SEO adaptadas específicamente a cada sector/nicho de mercado, todo ello sin ser spam."
+        },
+        "faq3": {
+            "title": "¿Se beneficiara mi negocio con el mercadeo digital?",
+            "text1": "El marketing digital es una obviedad para su negocio. Aunque muchas empresas siguen abordándolo con escepticismo, evitar la publicidad digital le niega el acceso y aleja a los clientes que, con toda probabilidad, son los primeros en acudir a Internet en momentos de necesidad o comodidad."
+        },
+        "faq4": {
+            "title": "Que se debe saber sobre la tecnología móvil/celular?",
+            "text1": "Con el auge de la tecnología móvil, la gente está empezando a ver sus beneficios. El marketing móvil se centra en aplicaciones de mensajería como WhatsApp o Instagram a las que se puede acceder desde el teléfono en lugar de utilizar métodos tradicionales como el correo electrónico para la comunicación; esto le permite tener más control sobre cuándo y con qué frecuencia se envían mensajes durante la conversación, ¡así como si alguien envía un mensaje primero!"
+        },
+        "faq5": {
+            "title": "¿Qué canales de redes sociales debo utilizar?",
+            "text1": "Hay muchos para elegir, pero si quieres que tu contenido sea visto y no abandonado, es importante que el tipo de medio elegido vaya más allá de Facebook o Instagram. Piensa primero en Twitter, con sus 328 millones de usuarios; en LinkedIn (con más de 350 millones), que se ha convertido en los últimos años en un recurso para los que buscan trabajo por ser un sitio de redes empresariales tan activo y dedicado específicamente a los profesionales que buscan trabajo, o incluso en Pinterest, con más de 300 millones Investiga dónde pasa la gente en estos sitios antes de decidir qué tipo de cosas podrían llegarles mejor allí; no te olvides también de otras plataformas como Google+, Tumblr, etc"
+        },
+        "faq6": {
+            "title": "¿Cómo puedo controlar mi marca en las redes sociales?",
+            "text1": "El poder está en manos de su audiencia. No puede \"controlar\" lo que dicen de ella, pero sí tiene cierta influencia en el desarrollo de sus conversaciones a través de los mensajes: demuestre que se preocupa por los clientes uniéndose a las conversaciones con una voz atractiva y proporcione contenido original o responda a las preguntas; esto creará una imagen de confianza que se reflejará bien en su empresa."
+        },
+        "faq7": {
+            "title": "Que es el personal branding?",
+            "text1": "El personal branding es el proceso de utilizar tácticas online y offline para comercializarte individualmente como empresario. Los medios digitales han contribuido a crear este énfasis en las marcas personales para todo tipo de decisiones de contratación, pero también es importante en tus elecciones de compra porque la gente puede saber quién eres a través de las cuentas de las redes sociales o de los sitios web que te representan bien - ¡así que utiliza esos canales sabiamente!"
+        },
+        "faq8": {
+            "title": "¿Cómo puedo crear una marca que se diferencie de las demás?",
+            "text1": "La mejor manera de hacerlo, según expertos como Paul Bloomfield en su libro \"Brand Differentiation\", es escribir lo que quieres y por qué es importante. Tienes dos opciones: comunicarte a un nivel emocional para que entiendan cómo mejorarán sus vidas o comprometerte con los clientes creando valor para ellos primero antes de pedirles nada a cambio, como, por ejemplo, reseñas de clientes satisfechos a los que les hayan ayudado tus servicios/productos, etc."
+        }
+    },
+    "servicios": {
+        "slider": {
+            "text1": "Services",
+            "text2": "¿Quieres conocer el camino hacia el éxito?",
+            "text3": "Nunca avanzará en esta industria si no se mantiene al tanto de las últimas tendencias. Estamos aquí para todas sus necesidades digitales, desde campañas de SEO y PPC hasta el diseño de sitios web con diseños receptivos para que los visitantes puedan navegar fácilmente a través de las páginas independientemente del dispositivo que estén usando en un momento dado durante su visita: ¡computadora móvil o de escritorio! "
+        },
+        "span1": {
+            "text1": "El poder de los servicios digitales.",
+            "text2": "El mundo digital es el camino del futuro. ¡Ofrece muchas oportunidades para llegar a su público objetivo a un costo menor y una mayor rentabilidad que los métodos de marketing tradicionales!",
+            "text3": "Servicios digitales de Succor"
+        },
+        "span2": {
+            "text1": "Programación",
+            "text2": "Diseño Gráfico",
+            "text3": "Marketing Digital",
+            "text4": "Redacción de Contenido",
+            "text5": "ECommerce"
+        },
+        "servicios": {
+            "disenoWeb": {
+                "text1": "Programación",
+                "text2": "Succor Digital ofrece servicios de programación personalizados que seguramente se adaptarán a sus necesidades comerciales específicas. Ya sea que necesite un equipo completo de desarrollo de sitios web o un aumento de personal, socorro puede ayudarlo brindándole las mejores soluciones disponibles. ¡Podemos ayudarlo a lograr el éxito",
+
+                "text3": "Construcción de Sitios Web",
+                "text4": "Sitios Web de Comercio Electrónico",
+                "text5": "Cree Páginas de Destino para sus Campañas",
+                "text6": "Crea correos electrónicos HTML",
+                "text7": "API del programa",
+                "text8": "Programa de widgets",
+
+                "text9": "Construcción de Sitios Web",
+                "text10": "No hay mejor momento que ahora para tener presencia en línea. Tener sitios web creados con la apariencia adecuada requiere un amplio conocimiento sobre los lenguajes de programación HTML / CSS. Se pueden diseñar para varios dispositivos (como computadoras de escritorio o tabletas).",
+                "text11": "Afortunadamente, nuestro equipo de diseño web sabe lo que hace cuando se trata de crear sitios web atractivos. Hacer que el sitio web sea completamente receptivo, lo que significa que mostrarán perfectamente cualquier tamaño de pantalla desde teléfonos hasta monitores grandes sin degradar la calidad. Esto significa que cualquier persona que visite tiene acceso al contenido de forma rápida y sencilla, ¡sin importar qué dispositivo esté utilizando!",
+
+                "text12": "¿Por qué crear un sitio web para su empresa?",
+                "text13": "Gana credibilidad con tus clientes",
+                "text14": "Reach our clients, followers, and potential customers",
+                "text15": "Make it close and personal",
+                "text16": "Let them know where you are",
+                "text17": "Be ahead of your time",
+
+                "text18": "Su sitio web es lo primero que ven los clientes potenciales cuando buscan sus productos. Un sitio bien diseñado y mantenido mejorará no solo su apariencia profesional y confiable, sino que también hará que sea más fácil encontrar más información sobre qué servicios o bienes están disponibles con solo hacer clic en un botón.",
+                "text19": "Sin una presencia en línea, ¡eres invisible para los clientes potenciales!",
+                "text20": "El 80% de las personas que necesitan algún servicio lo buscan primero en Internet. Sin un sitio web o una cuenta de redes sociales, es posible que ni siquiera exista para todos los efectos.",
+                "text21": "Conectarse con sus clientes es la mejor manera de comprar y regresar.",
+                "text22": "Un sitio web es una oportunidad perfecta para mostrar la visión y la historia de su empresa. Y descubrir la visión de las personas que te compran.",
+                "text23": "También puede mostrar sus mejores reseñas y testimonios de forma destacada en el sitio web. Esto facilitará que los clientes confíen en usted.",
+                "text24": "Anime a los clientes que estén interesados en lo que les ofrece mostrando un chat, entradas o un número de teléfono en su sitio web.",
+                "text25": "Puedes actualizar tu sitio web con Google Maps para que la gente pueda encontrarte más fácilmente.",
+                "text26": "El mapeo es una parte integral de Internet hoy. De hecho, más de la mitad (60%) de todos los consumidores ahora usan mapas cuando buscan información y servicios locales, ¡esto incluye encontrar restaurantes cercanos o cómo llegar a casa!",
+                "text27": "Su sitio web es una herramienta poderosa que puede ayudarlo a establecerse en la industria. Si sus competidores aún no están en línea, pronto lo estarán.",
+                "text28": "Conviértase en un experto en sitios de alta calidad antes de que nadie pueda darle una ventaja sobre ellos cuando los clientes busquen tomar una decisión sobre a quién compran o con quién trabajan en función de lo que está disponible en el mercado en este momento.",
+                "text29": "Sin embargo, si estamos hablando específicamente de aquellas empresas que ya se anuncian a sí mismas a través de sitios web ahora, existen oportunidades presentes que nos permiten (a usted) mostrar nuestras diferencias mediante la creación de sitios web personalizados de forma única que lo caracterizan aparte de la competencia"
+
+
+            },
+            "graphicDesign": {
+                "text1": "Diseño gráfico",
+                "text2": "El trabajo de un diseñador gráfico es crear mensajes visuales. Ellos son los encargados y responsables de atraer a las personas, hablar con el subconsciente, convencerlos de que su marca es la que deben comprar",
+                "text3": "Usar colores o formas que están intrínsecamente relacionados con productos de alta calidad, precios bajos, profesionalismo y otros mensajes que le gustaría transmitir de manera no verbal a su cliente potencial.",
+                "text4": " La mayoría de los consumidores pueden convencerse con sus ojos más que con las palabras; Las representaciones subliminales podrían generar poderosas campañas de marketing, ¡llevando a los clientes directamente hacia un pedido!",
+
+                "text5": "Diseño Web",
+                "text6": "Diseño de Banner",
+                "text7": "Imágenes de Anuncios o Gifs",
+                "text8": "Diseño de Logo",
+                "text9": "Crea Conceptos Visuales",
+                "text10": "Diseño de la Aplicación",
+                "text11": "Folletos",
+                "text12": "Diseño de Revistas",
+                "text13": "Diseño de Redes Sociales",
+
+                "text14": "¿Sabes que el color es parte fundamental de tu diseño?",
+                "text15": "Guíe a sus clientes a través de un viaje",
+
+                "text16": "El color juega un papel fundamental en el diseño gráfico. Es una de las primeras cosas que las personas notan y puede hacer o deshacer lo que sienten acerca de su marca. Los colores correctos te ayudarán a crear una conexión emocional con tu audiencia, mientras que los incorrectos pueden hacer que se sientan confundidos y desinteresados.",
+                "text17": "Nuestro equipo sabe que colocar información relevante en un sitio web no es suficiente; tiene que ser un viaje atractivo, casi como si estuvieras leyendo una historia.",
+                "text18": "El diseño gráfico es mucho más que elegir colores que combinen. “Un buen diseño o presentación hace el trabajo más importante de captar y mantener la atención de su público objetivo.",
+                "text19": "Las personas se sienten atraídas por las marcas que pueden mantener su interés y los diseñadores gráficos son una parte clave de este tipo de marketing. “A cualquier empresa le encantaría contratar a un diseñador gráfico que tenga la visión, las ideas y las habilidades para ayudarlos a atraer a su público objetivo.",
+                "text20": "El marketing no es un juego único para todos. Se trata de crear contenido que se destaque y capte la atención de su público objetivo, que permanecerá más tiempo en cualquier sitio que visiten si se siente como una historia atractiva en lugar de que la información se coloque allí sin un propósito o encanto.",
+                "text21": "Los diseñadores gráficos son esenciales para este tipo de marketing porque sus habilidades radican en más que elegir colores juntos: necesitamos a alguien creativo con una visión que lo ayude a contar historias a través del diseño, ya sea que esté mirando logotipos, publicaciones de sitios web / blogs, etc...",
+                "text22": "Nuestro equipo sabe lo crucial que se ha vuelto el buen diseño gráfico cuando se intenta atraer clientes en estos días en lugar de depender únicamente del texto."
+            },
+            "digitalMarketing": {
+                "text1": "Marketing Digital",
+                "text2": "El marketing digital es el prodigio descendiente del marketing. El marketing digital se puede utilizar para cualquier tipo de industria, y es mucho más económico que los métodos tradicionales con un alcance aún mayor, lo que hace que quienes más probablemente estén interesados en lo que ofreces tengan más acceso a tus servicios.",
+                "text3": "Internet se ha convertido en un mercado colosal: ¡capaz de proporcionar una plataforma y hacernos la vida más fácil al brindarnos acceso desde cualquier lugar y en cualquier momento! Esto significa que cuando alguien busca algo en línea, se encontrará con su producto / servicio si sus intereses coinciden lo suficientemente bien con los suyos. Todo esto hubiera sido imposible sin la publicidad digital.",
+
+                "text4": "SEO",
+                "text5": "SEM",
+                "text6": "Marketing de Medios Sociales",
+                "text7": "Correo de Propaganda",
+                "text8": "Publicidad Web",
+                "text9": "Más...",
+
+                "text10": "SEO significa optimización de motores de búsqueda y su objetivo principal es facilitar que sus servicios aparezcan en la parte superior de la lista cuando las personas buscan lo que ofrece en motores de búsqueda como Google, Yahoo y Bing",
+                "text11": "Un SEO subcontratado es una excelente manera de hacer que su negocio sea más visible en la búsqueda de Google.",
+                "text12": "No siempre es fácil para las empresas, especialmente para las empresas que recién comienzan o las que no tienen un gran presupuesto. A primera vista, puede parecer que no está obteniendo mucho tráfico al conseguir que otra persona se encargue de su SEO, pero en realidad, el SEO es un proceso lento y, siempre que un profesional esté trabajando en él, obtendrá resultados.",
+                "text13": "No espere hasta que haya agotado su presupuesto para hacer SEO; después de todo, obtendrá mejores resultados con un profesional, y tener tráfico orgánico por el que no tiene que pagar es el mejor tipo de marketing que existe.",
+
+                "text14": "SEM significa marketing en buscadores. Esta es la versión de pago de los motores de búsqueda. Un profesional lo ayudará a configurar sus campañas en Google y otros motores de búsqueda para comercializar sus servicios o marcas. Esta es una excelente manera de vender sus servicios, ya que los resultados son inmediatos y están dirigidos a la audiencia interesada en sus servicios.",
+                "text15": "¿Necesitas ayuda con tu SEM?",
+                "text16": "Nuestro servicio SEM subcontratado es la mejor manera de comercializar su negocio en línea. Lo ayudaremos a configurar y administrar campañas en Google, Bing, Yahoo y otros motores de búsqueda. Este es un método de marketing eficaz porque está dirigido a personas que ya están interesadas en lo que ofrece.",
+                "text17": "Puede llegar a más clientes que nunca con nuestro servicio SEM subcontratado. Con solo una llamada o clic, comenzaremos a crear una campaña que se adapte a su presupuesto y objetivos para que pueda comenzar a ver resultados de inmediato. Y dado que somos expertos en este tipo de cosas, no hay necesidad de preocuparse por cometer errores o perder el tiempo: ¡sabemos exactamente cómo asegurarnos de que todo funcione sin problemas desde el primer día!",
+
+                "text18": "El marketing en redes sociales le permite crear una relación con su base de clientes. Puede generar credibilidad y conocimiento de su empresa, lo que lleva a la generación de leads, la interacción, los influencers y la creación de campeones para su marca.",
+
+                "text19": "Los anuncios web pueden ayudar a su empresa. Incluso si le está yendo bien en otras campañas de marketing, muchos clientes potenciales que no lo saben querrán ver si es de confianza o no. Al comprar espacios en sitios web, podemos asegurarnos de que las personas vean su marca y sepan que es genuina y confiable, ya que estará en páginas en las que ya confían. Es una excelente manera de atraer a clientes que quizás no conocían antes. Para una empresa desconocida, esta es la mejor forma de empezar.",
+                "text20": " No tiene que preocuparse por cuánto dinero gasta o si incluso funcionará para su negocio porque nuestro equipo de expertos ha realizado toda la investigación y las pruebas para saber exactamente dónde y con qué frecuencia se deben mostrar los anuncios para que puedan sea efectivo. Nos encargamos de todo, de principio a fin, para que pueda concentrarse en administrar su negocio sin dejar de obtener resultados en línea."
+            },
+            "copy": {
+                "text1": "Redacción de Contenido",
+                "text2": "Hay varios tipos de redacción publicitaria y, dependiendo de lo que necesite, lo ajustaremos y haremos que la persona adecuada trabaje en su proyecto",
+
+                "text3": "Blog",
+                "text4": "Sitios Web",
+                "text5": "Artículos",
+                "text6": "Noticias",
+                "text7": "Boletín Informativo",
+                "text8": "Correo Electrónico",
+                "text9": "Anuncios",
+                "text10": "Más...",
+
+                "text11": "Narración",
+                "text12": "Redacción",
+                "text13": "Escritor Anónimo",
+
+                "text14": "Una de las mejores formas de atraer a la gente es conseguir un escritor que pueda contar historias.",
+                "text15": "Se ha demostrado una y otra vez que escribir para blogs, redes sociales y otras formas de contenido es una forma en que las empresas pueden conectarse con su audiencia para familiarizarse o vincularse más, lo que podría conducir a ventas potenciales en el futuro.",
+                "text16": "Succor Digital es una empresa que emplea escritores para todas las plataformas de redes sociales en las que se encuentra. Nuestro objetivo será idear formas nuevas y creativas de lograr que las personas se involucren en su negocio o marca a través de blogs y artículos de publicación en línea. Si se beneficia de alguien a quien le encanta contar historias y conectarse con diferentes audiencias, tanto grandes como pequeñas, mi empresa es la opción perfecta. Desde establecer credibilidad, crear conciencia o aumentar el compromiso, utilizaremos nuestras mejores habilidades de narración combinadas con una excelente visión de los datos de su público objetivo para crear contenido persuasivo que inspire la acción.",
+
+                "text17": "El objetivo de la redacción publicitaria es realizar una venta. A diferencia de otros tipos de contenido, que están diseñados principalmente con fines de entretenimiento y, en ocasiones, se denominan \"redacción creativa\", este formulario se centra en una cosa: llamar la atención del lector para que compren lo que vendes, en este caso, tu producto. o servicio",
+                "text18": "Si está buscando una ventaja sobre sus competidores, este tipo de redacción puede ayudar a impulsar su presencia en línea al aumentar el tráfico y la participación.",
+                "text19": "Si está listo para comenzar ahora, ¡tenemos todo lo que necesita aquí mismo! ¡Permítanos ayudarlo a hacer crecer su negocio hoy!",
+
+                "text20": "¿Estás demasiado ocupado para escribir tus artículos?",
+                "text21": "Si es así, un escritor anónimo es la solución perfecta para ti. Podemos ayudarlo a crear contenido que impulsará su negocio y aumentará las ventas. Nuestros escritores tienen experiencia en escribir sobre cualquier tema o industria, por lo que podemos proporcionar un trabajo de alta calidad sin importar sus necesidades. Obtendrá contenido original escrito por profesionales que saben cómo hacerlo atractivo y emocionante para los lectores. Además, ¡nuestras tarifas son asequibles!",
+                "text22": "¡Permítanos hacer todo el trabajo duro por usted mientras usted se concentra en administrar su negocio! Ya se trate de publicaciones en blogs, textos de sitios web o incluso libros electrónicos, tenemos escritores que se especializan en todo tipo de proyectos de escritura imaginables. ¡Todos nuestros servicios vienen con garantías de confidencialidad total, así como con garantías de satisfacción del 100%! Entonces, si no está satisfecho con el producto final, avísenos dentro de los 30 días y le reembolsaremos el 100% de su dinero sin dudarlo. ¡No hay nada mejor que eso!"
+                
+            },
+            "ecommerce": {
+                "text1": "ECommerce",
+                "text2": "¿Quieres vender productos online? ¿Está buscando una manera conveniente de ofrecer a sus clientes la opción de comprar sus productos sin instalar una costosa tienda física? El comercio electrónico puede ayudarlo a llegar a nuevos clientes y aumentar los ingresos.",
+
+                "text3": "Nuestros Servicios",
+
+                "text4": "Construcción de ECommerce",
+                "text5": "Management",
+                "text6": "Marketing Digital",
+
+                "text7": "Su sitio web es su escaparate en línea. Ya sea que esté comenzando o haya estado en el negocio durante años, una cosa que nunca cambiará es la necesidad de asegurarse de que las personas puedan encontrar su producto en Internet. El equipo de desarrollo de comercio electrónico profesional de Succor crea sitios web diseñados para adaptarse a las necesidades del cliente, desde elementos esenciales como el procesamiento seguro de pagos y la gestión de inventario; a tecnologías avanzadas como el diseño receptivo y la optimización de motores de búsqueda (SEO).",
+                "text8": "Con un sistema de gestión de contenido integrado (CMS) que funciona con sus objetivos específicos en mente, nuestros desarrolladores web crean sitios web que colocan a los clientes en primer lugar y les brindan todo lo que necesitan para participar al facilitar a los compradores la búsqueda de productos en línea.",
+
+                "text9": "El marketing digital de Succor está aquí para quitarle la carga de encima. Nuestros servicios de gestión de comercio electrónico subcontratados están diseñados para simplificar cualquier aspecto de su negocio con el que necesite ayuda, desde la comercialización de materiales de ventas para el sitio web hasta el envío de encuestas de clientes en línea cuando llega un pedido. Es nuestro trabajo asegurarnos de que nada se pierda. en el trabajo cuando más lo necesita.",
+
+                "text10": "El marketing digital lo ayuda a comunicarse e interactuar con clientes potenciales de manera más consistente. Nuestros expertos en comercio electrónico diseñarán una estrategia ganadora para su negocio aplicando nuestro conocimiento en redes sociales, SEO, participación de influencers y optimización de conversiones."
+            }
+        }
+    },
+    "callToAction": {
+        "text1": "Juntos podemos desarrollar su potencial empresarial."
+    },
+    "menu": {
+        "text1": "Nosotros",
+        "text2": "Servicios",
+        "text3": "Tienda",
+        "text4": "Contacto"
+    },
+    "post": {
+        "text1": "Escrito por",
+        "text2": "Compartir",
+        "text3": "Tienda",
+        "text4": "Contacto"
+    },
+    "tienda":{
+        "slider":{
+            "text1":"En Construcción"
+        }
+    }
+}

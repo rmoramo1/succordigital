@@ -1,0 +1,168 @@
+@import 'mixin/mixin.scss';
+
+body {
+  margin: 0;
+  font-family: 'Passion One', cursive;
+  font-family: 'Teko', sans-serif;
+  font-size: 1.2rem;
+}
+
+a {
+  color: $blue;
+
+  &:hover {
+    color: $purple;
+  }
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: $purple;
+}
+
+.minH50vh {
+  min-height: 50vh;
+}
+
+.slider,
+.circle-span {
+  min-height: 85vh;
+  @include bgImage;
+  color: $white;
+  text-shadow: 0 0 5px $black;
+  transition: all .5s ease-in-out;
+  position: relative;
+}
+
+.circle-span {
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.sliderHome {
+  background-image: url('../img/sliders/homeSliderClean.jpg');
+
+  a {
+    &:hover {
+      text-shadow: none;
+      color: $black;
+    }
+  }
+}
+.slider-marketing{
+  background-image: url('../img/sliders/marketingDigital.jpg');
+}
+
+.sliderWeb{
+  background-image: url('../img/sliders/sliderWebDesing.jpg');
+}
+.circles {
+  width: 200px;
+  height: 200px;
+  background-image: url('../img/sliders/circles.png');
+  position: absolute;
+  animation: backEfect 2s infinite linear;
+}
+
+@keyframes backEfect {
+  0% {
+    filter: brightness(1) blur(0);
+    transform: scale(1) rotate(0deg);
+  }
+
+  50% {
+    filter: brightness(1.5) blur(0);
+    transform: scale(1.1) rotate(180deg);
+  }
+
+  100% {
+    filter: brightness(1) blur(0);
+    transform: scale(1) rotate(360deg);
+  }
+}
+
+.sliderAbout {
+  background-image: url('../img/sliders/sliderAbout.jpg');
+}
+
+.sliderContact {
+  background-image: url('../img/sliders/sliderContact.jpg');
+}
+
+.sliderFaqs {
+  background-image: url('../img/sliders/sliderFaqs.jpg');
+  background-position: 50%;
+  background-size: cover;
+  text-shadow: 0 0 5px $black;
+}
+
+.sliderServicios {
+  background-image: url('../img/sliders/sliderServicios.jpg');
+}
+
+.sliderStore {
+  background-image: url('../img/contrucction.jpg');
+}
+
+.sliderError {
+  background-image: url('../img/404.jpg');
+}
+
+.bgBlue{
+  background: $blue;
+}
+.lightBlueLogo{
+  background:$lightBlueLogo;
+}
+.bgLinearBlue {
+  background: $bgLinearBlue;
+}
+.bgBlueKing{
+  background: $blueKing;
+}
+.bgDarkBlue {
+  background-color: $blueDark;
+}
+
+.bgLightGrey {
+  background-color: $lightGrey;
+}
+
+.bgBlueTrans {
+  background-color: rgba($blueDark, .8);
+}
+
+.bgTurque {
+  background-color: lighten($blue,  25)  !important;
+}
+
+.bgPurple {
+  background-color: $purple;
+}
+
+.bgBlueDyrty {
+  background-color: $blueDyrty;
+}
+
+
+.shadowTop {
+  box-shadow: 0 -.7rem 1rem rgba($black, .15) !important;
+}
+
+.shadowFancy {
+  box-shadow: -13px -13px 14px -4px rgb(255, 255, 255), 3px 3px 15px 4px rgba(184, 184, 184, 66%);
+}
+
+.borderB {
+  border-bottom: 1px solid $purple;
+}
+
+.stick {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 50px;
+}
+input,textarea{
+  border: 1px solid rgba($grey, .3);  
+}

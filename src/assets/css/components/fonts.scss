@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Roboto', sans-serif;
+    @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+}
+
+.fontBold {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+
+.textBlue {
+    color: $blueDark;
+}
+
+.textLightBlue {
+    color: $blue;
+}
+.text-light-blue{
+    color: lighten($blue,  25)  !important;
+}
